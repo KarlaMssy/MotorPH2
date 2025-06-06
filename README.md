@@ -13,7 +13,7 @@
 
 <p align="center">
 
-  👨‍💻 <strong>Developers:</strong> Karla Castillo
+  👨‍💻 <strong>Developer:</strong> Karla Castillo
 </p>
 
 ---
