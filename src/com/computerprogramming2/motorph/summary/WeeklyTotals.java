@@ -9,7 +9,7 @@ import com.computerprogramming2.motorph.attendance.AttendanceRecord;
 
 /**
  *
- * @author MO-IT101-Group14 | Codes | S1101 | Arellano, L., Castillo, D., Castillo, K.M., Ranay, D.
+ * @author Mssy
  * 
  */
 
