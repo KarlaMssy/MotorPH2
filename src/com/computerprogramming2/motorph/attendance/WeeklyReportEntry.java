@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package com.moit101group14.motorph.attendance;
+package com.computerprogramming2.motorph.attendance;
 
-import com.moit101group14.motorphpayrollsystem.EmployeeDetails;
+import com.computerprogramming2.motorphpayrollsystem.EmployeeDetails;
 
 /**
  *

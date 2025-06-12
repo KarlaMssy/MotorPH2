@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package com.moit101group14.motorphpayrollsystem;
+package com.computerprogramming2.motorphpayrollsystem;
 
 /**
  *
@@ -10,11 +10,11 @@ package com.moit101group14.motorphpayrollsystem;
  * 
  **/
 
-import com.moit101group14.motorph.Deductions.MonthlyDeductionCalculator;
-import com.moit101group14.motorph.data.DataLoader;
-import com.moit101group14.motorph.summary.WeeklyTotals;
-import com.moit101group14.motorph.summary.MonthlyTotals;
-import com.moit101group14.motorph.attendance.WeeklyRecordsProcessor;
+import com.computerprogramming2.motorph.Deductions.MonthlyDeductionCalculator;
+import com.computerprogramming2.motorph.data.DataLoader;
+import com.computerprogramming2.motorph.summary.WeeklyTotals;
+import com.computerprogramming2.motorph.summary.MonthlyTotals;
+import com.computerprogramming2.motorph.attendance.WeeklyRecordsProcessor;
 import java.io.IOException;
 import java.util.Map;
 import java.util.logging.Level;

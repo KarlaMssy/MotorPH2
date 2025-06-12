@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package com.moit101group14.motorph.Deductions;
+package com.computerprogramming2.motorph.Deductions;
 
 /**
  *
@@ -11,33 +11,33 @@ package com.moit101group14.motorph.Deductions;
  **/
 
 /**
- * Represents an SSS (Social Security System) contribution bracket.
+ * Represents a Pag-IBIG (HDMF) contribution bracket.
  * Each bracket defines the salary range and corresponding contribution amount.
  */
-public class SSSBracket {
+public class PagIBIGBracket {
     private final double compensationFrom;
     private final double compensationTo;
     private final double contribution;
 
     /**
-     * Constructs an SSSBracket object defining salary range and contribution details.
+     * Constructs a PagIBIGBracket object defining salary range and contribution details.
      *
-     * @param compensationFrom The minimum salary for this bracket.
-     * @param compensationTo   The maximum salary for this bracket.
-     * @param contribution     The fixed SSS contribution for this salary range.
+     * @param compensationFrom   The minimum salary for this bracket.
+     * @param compensationTo     The maximum salary for this bracket.
+     * @param contribution The fixed Pag-IBIG contribution for this salary range.
      */
-    public SSSBracket(double compensationFrom, double compensationTo, double contribution) {
+    public PagIBIGBracket(double compensationFrom, double compensationTo, double contribution) {
         this.compensationFrom = compensationFrom;
         this.compensationTo = compensationTo;
         this.contribution = contribution;
     }
 
-    /** @return The lower bound of the salary range for this SSS bracket. */
+    /** @return The lower bound of the salary range for this Pag-IBIG bracket. */
     public double getCompensationFrom() {
         return compensationFrom;
     }
 
-    /** @return The upper bound of the salary range for this SSS bracket. */
+    /** @return The upper bound of the salary range for this Pag-IBIG bracket. */
     public double getCompensationTo() {
         return compensationTo;
     }
@@ -48,13 +48,13 @@ public class SSSBracket {
     }
 
     /**
-     * Generates a formatted string representation of the SSS bracket.
+     * Generates a formatted string representation of the Pag-IBIG bracket.
      *
-     * @return A string describing the SSS bracket details.
+     * @return A string describing the Pag-IBIG bracket details.
      */
     @Override
     public String toString() {
-        return String.format("SSS Bracket: Salary %.2f - %.2f | Contribution: %.2f",
+        return String.format("Pag-IBIG Bracket: Salary %.2f - %.2f | Contribution: %.2f",
                 compensationFrom, compensationTo, contribution);
     }
 }

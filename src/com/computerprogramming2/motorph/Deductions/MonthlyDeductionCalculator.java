@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package com.moit101group14.motorph.Deductions;
+package com.computerprogramming2.motorph.Deductions;
 
 /**
  *
@@ -10,9 +10,9 @@ package com.moit101group14.motorph.Deductions;
  * 
  */
 
-import com.moit101group14.motorph.data.PayrollDateUtils;
-import com.moit101group14.motorph.summary.MonthlyTotals;
-import com.moit101group14.motorph.attendance.AttendanceRecord;
+import com.computerprogramming2.motorph.data.PayrollDateUtils;
+import com.computerprogramming2.motorph.summary.MonthlyTotals;
+import com.computerprogramming2.motorph.attendance.AttendanceRecord;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Map;

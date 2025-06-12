@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package com.moit101group14.motorph.data;
+package com.computerprogramming2.motorph.data;
 
 /**
  *
@@ -10,12 +10,12 @@ package com.moit101group14.motorph.data;
  * 
  */
 
-import com.moit101group14.motorph.attendance.AttendanceRecord;
-import com.moit101group14.motorphpayrollsystem.EmployeeDetails;
-import com.moit101group14.motorph.Deductions.PHICBracket;
-import com.moit101group14.motorph.Deductions.PagIBIGBracket;
-import com.moit101group14.motorph.Deductions.SSSBracket;
-import com.moit101group14.motorph.Deductions.TaxBracket;
+import com.computerprogramming2.motorph.attendance.AttendanceRecord;
+import com.computerprogramming2.motorphpayrollsystem.EmployeeDetails;
+import com.computerprogramming2.motorph.Deductions.PHICBracket;
+import com.computerprogramming2.motorph.Deductions.PagIBIGBracket;
+import com.computerprogramming2.motorph.Deductions.SSSBracket;
+import com.computerprogramming2.motorph.Deductions.TaxBracket;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

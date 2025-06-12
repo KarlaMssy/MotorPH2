@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package com.moit101group14.motorphpayrollsystem;
+package com.computerprogramming2.motorphpayrollsystem;
 
 /**
  *
@@ -10,10 +10,10 @@ package com.moit101group14.motorphpayrollsystem;
  * 
  */
 
-import com.moit101group14.motorph.Deductions.TaxBracket;
-import com.moit101group14.motorph.Deductions.SSSBracket;
-import com.moit101group14.motorph.Deductions.PagIBIGBracket;
-import com.moit101group14.motorph.Deductions.PHICBracket;
+import com.computerprogramming2.motorph.Deductions.TaxBracket;
+import com.computerprogramming2.motorph.Deductions.SSSBracket;
+import com.computerprogramming2.motorph.Deductions.PagIBIGBracket;
+import com.computerprogramming2.motorph.Deductions.PHICBracket;
 import java.util.List;
 
 /**

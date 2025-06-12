@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package com.moit101group14.motorph.summary;
+package com.computerprogramming2.motorph.summary;
 
 /**
  *
@@ -10,7 +10,7 @@ package com.moit101group14.motorph.summary;
  * 
  **/
 
-import com.moit101group14.motorph.attendance.AttendanceRecord;
+import com.computerprogramming2.motorph.attendance.AttendanceRecord;
 import java.time.Duration;
 import java.time.LocalTime;
 
