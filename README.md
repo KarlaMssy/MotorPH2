@@ -1,10 +1,5 @@
-<h1 align="center">
-  <a href="https://metalpulz.com"><img src="https://www.svgrepo.com/show/65722/dollar-coins-stack.svg" alt="hybridSeek" width="200"></a>
-  <br>
-  🚀 MotorPH CP2  <br>
-  <br>
-</h1>
-
+# 🚀 MotorPH CP2  <br>
+ 
 <p align="center">
   <a href="https://netbeans.apache.org/"><img src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans&logoColor=white" alt="NetBeans"></a>
   <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-23-blue?logo=java" alt="Java"></a>
